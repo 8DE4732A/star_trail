@@ -6,7 +6,7 @@
 
 ![示例图像](star_trail2.jpg)
 
-<video src="star_trail.mp4" controls width="640" height="360"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GvsEzmlom0?si=trxHH0Z0KOduP2vy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 原理
 
