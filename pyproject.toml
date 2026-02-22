@@ -1,0 +1,13 @@
+[project]
+name = "star-trails"
+version = "0.1.0"
+description = "星轨合成工具 - 将多张星空照片通过最大值叠加合成为星轨图像"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "opencv-python>=4.8",
+    "numpy>=1.26",
+]
+
+[project.scripts]
+star-trails = "main:main"
